@@ -1,5 +1,5 @@
 # Queue-it Session Generator Bot
-A browser-based automation solution that helps secured front line queue for sites that uses Queue-it Virtual Queue.
+A request-based automation solution that helps secured front line queue for sites that uses Queue-it Virtual Queue.
 
 ## What is Queue-it?
 Queue-it is a service that allows you to create a queue for your website. This queue is used to prevent your website from being overloaded by too many users at once.
